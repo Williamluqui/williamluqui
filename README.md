@@ -7,7 +7,7 @@
 
 :books: Atualmente trabalhando com Typescript/Javascript NodeJs.
 
-:outbox_tray: Objetivos 2024: criar novos projetos e implementar os existentes !! 
+:outbox_tray: Objetivos 2026: criar novos projetos e implementar os existentes !! 
 
 Obs.: Alguns projetos se encontram em privado ou em outro repositório.
 
